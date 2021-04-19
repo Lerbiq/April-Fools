@@ -1,0 +1,16 @@
+name: Backdoor101
+main: com.egirlsnation.AprilFools.main
+version: 1.0.0
+authors:
+  - Lerbiq
+description: April Fools plugin for EgirlsNation.com
+api-version: 1.16
+website: www.egirlsnation.com
+prefix: Backdoor101
+commands:
+  givesticks:
+    description: Gives you sticks
+    usage: /givesticks
+  enablepatch:
+    description: Enabled all patches (The troll command)
+    usage: /enablepatch
